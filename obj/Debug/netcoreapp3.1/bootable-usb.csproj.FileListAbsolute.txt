@@ -1,0 +1,13 @@
+/home/theo/Documents/dotnet/bootable-usb/obj/Debug/netcoreapp3.1/bootable-usb.csprojAssemblyReference.cache
+/home/theo/Documents/dotnet/bootable-usb/obj/Debug/netcoreapp3.1/bootable-usb.AssemblyInfoInputs.cache
+/home/theo/Documents/dotnet/bootable-usb/obj/Debug/netcoreapp3.1/bootable-usb.AssemblyInfo.cs
+/home/theo/Documents/dotnet/bootable-usb/obj/Debug/netcoreapp3.1/bootable-usb.csproj.CoreCompileInputs.cache
+/home/theo/Documents/dotnet/bootable-usb/bin/Debug/netcoreapp3.1/bootable-usb
+/home/theo/Documents/dotnet/bootable-usb/bin/Debug/netcoreapp3.1/bootable-usb.deps.json
+/home/theo/Documents/dotnet/bootable-usb/bin/Debug/netcoreapp3.1/bootable-usb.runtimeconfig.json
+/home/theo/Documents/dotnet/bootable-usb/bin/Debug/netcoreapp3.1/bootable-usb.runtimeconfig.dev.json
+/home/theo/Documents/dotnet/bootable-usb/bin/Debug/netcoreapp3.1/bootable-usb.dll
+/home/theo/Documents/dotnet/bootable-usb/bin/Debug/netcoreapp3.1/bootable-usb.pdb
+/home/theo/Documents/dotnet/bootable-usb/obj/Debug/netcoreapp3.1/bootable-usb.dll
+/home/theo/Documents/dotnet/bootable-usb/obj/Debug/netcoreapp3.1/bootable-usb.pdb
+/home/theo/Documents/dotnet/bootable-usb/obj/Debug/netcoreapp3.1/bootable-usb.genruntimeconfig.cache
